@@ -4,7 +4,7 @@ class AppConstand {
       'https://api.collectapi.com/imdb/imdbSearchByName?query=';
 
   static const HEADER = {
-    'authorization': 'apikey 2eCvY8zJFkAcaoZ9dQoOsw:06MIvg2PQlZPLQvuh8fY7T',
+    'authorization': 'apikey *********************************',
     'content-type': 'application/json',
   };
 }
